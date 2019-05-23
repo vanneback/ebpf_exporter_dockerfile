@@ -7,4 +7,4 @@ The image has been tested on `Ubuntu 18.04 LTS, bionic`.
 host
 
  ## Docker image
- A image is available at https://cloud.docker.com/u/vanneback/repository/docker/vanneback/rds_enhanced_monitoring_exporter
+ A image is available at https://cloud.docker.com/u/vanneback/repository/docker/vanneback/ebpf-exporter
